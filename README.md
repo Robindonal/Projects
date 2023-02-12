@@ -1,5 +1,3 @@
-# Projects
-
 # Robin Donal
 ## TSF DATA SCIENCE INTERN
 ## TASK 6
